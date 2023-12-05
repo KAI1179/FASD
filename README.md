@@ -14,4 +14,6 @@ We have tested the code on the following environments:
 This repository need you to download the publicly available CUB-200-2011 dataset to "./dataset".
 
 ## Train
-''' python FASD_R18_CUB.py ## ResNet-18, CUB-200-2011, FASD.'''
+``` bash
+python FASD_R18_CUB.py ## ResNet-18, CUB-200-2011, FASD.
+```
